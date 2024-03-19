@@ -1,5 +1,19 @@
-### Hi there 👋
+Hi There! I'm Sachin
+====================
 
+Looking to combine hardware and software to build powerful things.
+
+Focusing on
+-----------
+- Go
+- Rust 🦀
+- RISC-V
+- TLA+
+
+About Me
+---------
+- Worked as project lead on Blockchain-as-a-service platform.
+- Currently designing custom hardware(RTL).
 <!--
 **anonsachin/anonsachin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
