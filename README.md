@@ -10,6 +10,10 @@ Focusing on
 - RISC-V
 - TLA+
 
+Projects
+--------
+- [go-error-handlers](https://github.com/anonsachin/go-error-handlers) This is an enum system for Go inspired by Rust's enum system. This is to improve the current golang developer experience(Or just mine 😛).
+
 About Me
 ---------
 - Worked as project lead on Blockchain-as-a-service platform.
